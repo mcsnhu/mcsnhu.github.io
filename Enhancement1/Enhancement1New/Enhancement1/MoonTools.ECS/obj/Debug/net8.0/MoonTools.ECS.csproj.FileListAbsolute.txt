@@ -1,0 +1,12 @@
+h:\Programming\Enhancement1\MoonTools.ECS\bin\Debug\net8.0\MoonTools.ECS.deps.json
+h:\Programming\Enhancement1\MoonTools.ECS\bin\Debug\net8.0\MoonTools.ECS.dll
+h:\Programming\Enhancement1\MoonTools.ECS\bin\Debug\net8.0\MoonTools.ECS.pdb
+h:\Programming\Enhancement1\MoonTools.ECS\obj\Debug\net8.0\MoonTools.ECS.GeneratedMSBuildEditorConfig.editorconfig
+h:\Programming\Enhancement1\MoonTools.ECS\obj\Debug\net8.0\MoonTools.ECS.AssemblyInfoInputs.cache
+h:\Programming\Enhancement1\MoonTools.ECS\obj\Debug\net8.0\MoonTools.ECS.AssemblyInfo.cs
+h:\Programming\Enhancement1\MoonTools.ECS\obj\Debug\net8.0\MoonTools.ECS.csproj.CoreCompileInputs.cache
+h:\Programming\Enhancement1\MoonTools.ECS\obj\Debug\net8.0\MoonTools.ECS.sourcelink.json
+h:\Programming\Enhancement1\MoonTools.ECS\obj\Debug\net8.0\MoonTools.ECS.dll
+h:\Programming\Enhancement1\MoonTools.ECS\obj\Debug\net8.0\refint\MoonTools.ECS.dll
+h:\Programming\Enhancement1\MoonTools.ECS\obj\Debug\net8.0\MoonTools.ECS.pdb
+h:\Programming\Enhancement1\MoonTools.ECS\obj\Debug\net8.0\ref\MoonTools.ECS.dll
